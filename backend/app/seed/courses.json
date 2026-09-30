@@ -1,0 +1,47 @@
+[
+  {
+    "title": "React Advanced Concepts",
+    "provider": "Internal",
+    "skill": "React",
+    "from_level": "Intermediate",
+    "to_level": "Advanced",
+    "hours": 20,
+    "points_gain": 15
+  },
+  {
+    "title": "Node.js Microservices",
+    "provider": "Udemy",
+    "skill": "Node.js",
+    "from_level": "Intermediate",
+    "to_level": "Advanced",
+    "hours": 25,
+    "points_gain": 18
+  },
+  {
+    "title": "Introduction to Fintech",
+    "provider": "Coursera",
+    "skill": "Payments Integration",
+    "from_level": "Beginner",
+    "to_level": "Intermediate",
+    "hours": 15,
+    "points_gain": 12
+  },
+  {
+    "title": "PCI-DSS Compliance Masterclass",
+    "provider": "Internal",
+    "skill": "PCI-DSS",
+    "from_level": "Intermediate",
+    "to_level": "Advanced",
+    "hours": 10,
+    "points_gain": 10
+  },
+  {
+    "title": "Kubernetes for Developers",
+    "provider": "Pluralsight",
+    "skill": "Kubernetes",
+    "from_level": "Beginner",
+    "to_level": "Intermediate",
+    "hours": 30,
+    "points_gain": 20
+  }
+]
